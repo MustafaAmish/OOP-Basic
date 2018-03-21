@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{D0DC5005-6E9F-4134-BCA7-77CC46BA59C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{A1BDCD1A-1EA7-4139-9620-495853C33354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{11D7EA31-4EBC-4A48-A325-AA2EC39DC42E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0DC5005-6E9F-4134-BCA7-77CC46BA59C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DC5005-6E9F-4134-BCA7-77CC46BA59C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DC5005-6E9F-4134-BCA7-77CC46BA59C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DC5005-6E9F-4134-BCA7-77CC46BA59C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BDCD1A-1EA7-4139-9620-495853C33354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BDCD1A-1EA7-4139-9620-495853C33354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BDCD1A-1EA7-4139-9620-495853C33354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BDCD1A-1EA7-4139-9620-495853C33354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D7EA31-4EBC-4A48-A325-AA2EC39DC42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D7EA31-4EBC-4A48-A325-AA2EC39DC42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D7EA31-4EBC-4A48-A325-AA2EC39DC42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D7EA31-4EBC-4A48-A325-AA2EC39DC42E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A860DB2D-A73D-45C7-9B5E-D50CB156ECCB}
+	EndGlobalSection
+EndGlobal
